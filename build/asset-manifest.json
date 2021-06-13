@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/kawaspace/static/css/main.fa9f0ab1.chunk.css",
+    "main.js": "/github.io/kawaspace/static/js/main.90ecd4fa.chunk.js",
+    "main.js.map": "/github.io/kawaspace/static/js/main.90ecd4fa.chunk.js.map",
+    "runtime-main.js": "/github.io/kawaspace/static/js/runtime-main.94d834d5.js",
+    "runtime-main.js.map": "/github.io/kawaspace/static/js/runtime-main.94d834d5.js.map",
+    "static/js/2.bf0a8d85.chunk.js": "/github.io/kawaspace/static/js/2.bf0a8d85.chunk.js",
+    "static/js/2.bf0a8d85.chunk.js.map": "/github.io/kawaspace/static/js/2.bf0a8d85.chunk.js.map",
+    "static/js/3.39e5d522.chunk.js": "/github.io/kawaspace/static/js/3.39e5d522.chunk.js",
+    "static/js/3.39e5d522.chunk.js.map": "/github.io/kawaspace/static/js/3.39e5d522.chunk.js.map",
+    "index.html": "/github.io/kawaspace/index.html",
+    "static/css/main.fa9f0ab1.chunk.css.map": "/github.io/kawaspace/static/css/main.fa9f0ab1.chunk.css.map",
+    "static/js/2.bf0a8d85.chunk.js.LICENSE.txt": "/github.io/kawaspace/static/js/2.bf0a8d85.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94d834d5.js",
+    "static/js/2.bf0a8d85.chunk.js",
+    "static/css/main.fa9f0ab1.chunk.css",
+    "static/js/main.90ecd4fa.chunk.js"
+  ]
+}

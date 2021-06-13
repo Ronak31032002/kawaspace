@@ -1,0 +1,104 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+.box {
+    height: 400px;
+    width: 60%;
+    margin-left: 20%;
+    margin-top:50px;
+    float: left;
+    background-color: white;
+    border-radius: 15px;
+    box-shadow: 1px 1px 20px #BFBFBF;
+}
+.box .left {
+    height: 100%;
+    width: 30%;
+    float: left;
+}
+.box .left img {
+    height: 150px;
+    width: 150px;
+    border-radius:100px;
+    float: left;
+    margin-top: 35%;
+    margin-left:30%;
+}
+.box .right {
+    height: 100%;
+    width: 69%;
+    float: right;
+}
+.box .right .info {
+    float: left;
+    margin-left:30px;
+    margin-top: 50px;
+}
+.box .right .info h1 {
+    text-align: left;
+    font-size: 46px;
+    font-family: 'Roboto',sans-serif;
+    color: #FF5858;
+    line-height: 30px;
+}
+.box .right .info p {
+    text-align: left;
+    line-height:10px;
+    font-weight: 400;
+    font-size: 20px;
+    font-family: 'Roboto',sans-serif;
+}
+.box .right .info .gender {
+    color: #959595;
+}
+.box .right .info span {
+    color: #BF4EFF;
+}
+
+.boxes {
+    height: auto;
+    width: 94%;
+    margin-left: 4%;
+    float: left;
+    margin-top: 15px;
+    padding-bottom: 30px;
+}
+
+.boxes ul {
+    list-style: none;
+    margin-left: -60px;
+}
+.boxes ul li {
+    height: 130px;
+    width: 300px;
+    float: left;
+    background-color: white;
+    margin-left: 15px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 10px #BFBFBF;
+    margin-top: 30px;
+    text-align: left;
+
+}
+.boxes ul li .boxed:nth-child(1) {
+    margin-left:30px;
+    font-family: 'Roboto',sans-serif; 
+}
+.boxes ul li .boxed:nth-child(2) {
+    margin-left:30px;
+    font-family: 'Roboto',sans-serif; 
+    color:black;
+}
+.boxes ul li .boxed h2 {
+    font-size: 18px;
+}
+.boxes ul li .boxed h3 {
+    font-weight: 300;
+    font-size: 16px;
+}
+.boxes ul li .boxed .h3 {
+    color: red;
+}
+.boxes ul li:nth-child(1) {
+    background-color: #BF4EFF;
+    color: white;
+}
